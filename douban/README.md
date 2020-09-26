@@ -1,3 +1,23 @@
+本项目说明
+
+本项目为仿制豆瓣网站影视资讯的网站
+
+使用react框架和Ant-D的组件库
+
+
+
+由于豆瓣api的关闭，只能使用假数据，跳转页面效果只切换url路由地址
+
+
+
+
+
+
+
+
+
+### react-app 官方说明
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
