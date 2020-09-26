@@ -6,10 +6,6 @@ import '../../css/movie_item.scss'
 import { Rate } from 'antd';
 
 export default class MovieItem extends React.Component {
-  constructor(props) {
-    super(props)
-    this.state = {}
-  }
 
   render() {
     return <div className={'box'} onClick={this.goDetail}>
